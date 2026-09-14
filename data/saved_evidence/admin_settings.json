@@ -1,0 +1,286 @@
+{
+  "departments": [
+    "Marketing",
+    "Sales",
+    "Customer Success",
+    "Product",
+    "Engineering",
+    "IT",
+    "Operations",
+    "Finance",
+    "People / RH",
+    "Legal",
+    "Procurement",
+    "Facilities",
+    "Data & Analytics",
+    "General & Admin"
+  ],
+  "cost_centers": [
+    "Unassigned"
+  ],
+  "accounts": [
+    "Unspecified"
+  ],
+  "categories": [
+    "Projects",
+    "Personnel",
+    "Travel",
+    "Software",
+    "Events",
+    "Merchandising",
+    "External services",
+    "Training",
+    "Compliance",
+    "Others"
+  ],
+  "extra_dimensions": [
+    {
+      "dimension": "Region",
+      "values": "Spain, EMEA, US"
+    },
+    {
+      "dimension": "Business Unit",
+      "values": "Core, Growth, Corporate"
+    }
+  ],
+  "smart_mapping": [
+    {
+      "keyword": "development",
+      "department": "Product & Engineering",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "engineering",
+      "department": "Product & Engineering",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "product",
+      "department": "Product",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "operat",
+      "department": "Operations",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "logistics",
+      "department": "Operations",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "marketing",
+      "department": "Marketing",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "campaign",
+      "department": "Marketing",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "brand",
+      "department": "Marketing",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "media",
+      "department": "Marketing",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "sales",
+      "department": "Sales",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "travelling",
+      "department": "Sales",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "travel",
+      "department": "Sales",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "customer",
+      "department": "Customer Success",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "support",
+      "department": "Customer Success",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "success",
+      "department": "Customer Success",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "training",
+      "department": "People",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "people",
+      "department": "People / RH",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "hr",
+      "department": "People / RH",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "rh",
+      "department": "People / RH",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "recruit",
+      "department": "People / RH",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "talent",
+      "department": "People / RH",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "maintenance",
+      "department": "IT & Facilities",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "software",
+      "department": "IT & Facilities",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "cloud",
+      "department": "IT & Facilities",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "security",
+      "department": "IT",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "finance",
+      "department": "Finance",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "audit",
+      "department": "Finance",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "legal",
+      "department": "Legal",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "procurement",
+      "department": "Procurement",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "vendor",
+      "department": "Procurement",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "facility",
+      "department": "Facilities",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "office",
+      "department": "Facilities",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "data",
+      "department": "Data & Analytics",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    },
+    {
+      "keyword": "analytics",
+      "department": "Data & Analytics",
+      "cost_center": "",
+      "account": "",
+      "category": ""
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "department": "Marketing",
+  "status": "submitted",
+  "saved_at": "2026-09-11 16:29:34",
+  "answers": {
+    "_department": "Marketing",
+    "_project_count": 3,
+    "_project_1": {
+      "name": "Demo Product Launch",
+      "cost": 100000.0,
+      "go_live": "Apr",
+      "billing_month": "Apr",
+      "cost_type": "One-off"
+    },
+    "_project_2": {
+      "name": "",
+      "cost": 0.0,
+      "go_live": "Jan",
+      "billing_month": "Jan",
+      "cost_type": "One-off"
+    },
+    "_project_3": {
+      "name": "",
+      "cost": 0.0,
+      "go_live": "Jan",
+      "billing_month": "Jan",
+      "cost_type": "One-off"
+    },
+    "_marketing_current_headcount": 1.0,
+    "_marketing_headcount_count": 1,
+    "_marketing_headcount_reduction_count": 0,
+    "_marketing_events_count": 3,
+    "_marketing_events_1": {
+      "name": "Industry Trade Show",
+      "cost": 10000.0,
+      "category": "Feria / trade show",
+      "billing_month": "Jul",
+      "frequency": "One-off"
+    },
+    "_marketing_events_2": {
+      "name": "",
+      "cost": 0.0,
+      "category": "Feria / trade show",
+      "billing_month": "Jan",
+      "frequency": "One-off"
+    },
+    "_marketing_events_3": {
+      "name": "",
+      "cost": 0.0,
+      "category": "Feria / trade show",
+      "billing_month": "Jan",
+      "frequency": "One-off"
+    },
+    "_marketing_travel_count": 0,
+    "_marketing_software_count": 0,
+    "_marketing_merchandising_count": 0,
+    "_marketing_others_count": 0,
+    "_marketing_role_1": {
+      "role": "Demand Generation Manager",
+      "fte": 1.0,
+      "gross_salary": 60000.0,
+      "start_month": "Feb",
+      "contract_type": "Permanent"
+    },
+    "_marketing_role_2": {
+      "role": "Demand Generation Manager",
+      "fte": 1.0,
+      "gross_salary": 0.0,
+      "start_month": "Jan",
+      "contract_type": "Permanent"
+    },
+    "_challenge_responses": {
+      "question_1": "Assumptions reviewed"
+    },
+    "_challenge_status": "approved"
+  }
+}
